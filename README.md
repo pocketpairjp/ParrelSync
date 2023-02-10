@@ -40,7 +40,7 @@ https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync
 or by adding 
 
 ```
-"com.veriorpies.parrelsync": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync"
+"com.veriorpies.parrelsync": "https://github.com/pocketpairjp/ParrelSync.git?path=/ParrelSync"
 ``` 
 
 to the `Packages/manifest.json` file 
